@@ -35,7 +35,7 @@ For more informations check my website: https://floppylab.altervista.org/en
 
 You can also find some information on my YouTube channel: https://www.youtube.com/@floppylab
 
-<img src="https://floppylab.altervista.org/wp-content/uploads/2023/02/Stemma-scritta.png" width="300">
+<img src="https://floppylab.altervista.org/wp-content/uploads/2023/02/cropped-Stemma-scritta-tonda.png" width="300">
 
 
 ## License
