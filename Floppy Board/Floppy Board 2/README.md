@@ -11,7 +11,7 @@ The improvements that I made are as follows:
 - The microcontroller is the same as the first Floppy Board, but it can be upgraded with an equivalent MCU that has double the FLASH memory. The more capable MCU is the STM32G031F8P6, which has 32kB more memory than the old one (so 64kB in total). These boards are compatible with Arduino IDE, meaning they can be easily programmed by users who are less experienced.
 
 
-<img src="https://floppylab.altervista.org/wp-content/uploads/2023/02/Stemma-scritta.png" width="300">
+<img src="https://floppylab.altervista.org/wp-content/uploads/2023/02/cropped-Stemma-scritta-tonda.png" width="300">
 
 ## License
 

@@ -4,7 +4,7 @@
 
 This is the first prototype of the Floppy Board.
 
-<img src="https://floppylab.altervista.org/wp-content/uploads/2023/02/Stemma-scritta.png" width="300">
+<img src="https://floppylab.altervista.org/wp-content/uploads/2023/02/cropped-Stemma-scritta-tonda.png" width="300">
 
 ## License
 
