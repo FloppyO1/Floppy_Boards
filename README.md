@@ -35,6 +35,13 @@ For more informations check my website: https://floppylab.altervista.org/en
 
 You can also find some information on my YouTube channel: https://www.youtube.com/@floppylab
 
+## Support this project with a donation
+
+To support this project you can make a donation via PayPal or buy a Floppy Board:
+
+https://www.paypal.com/paypalme/floppylab
+https://ko-fi.com/floppylab
+
 <img src="https://floppylab.altervista.org/wp-content/uploads/2023/02/cropped-Stemma-scritta-tonda.png" width="300">
 
 
