@@ -21,8 +21,108 @@
     (property "ki_description" "General purpose programmable breakout board mounting STM32G030F6P6/STM32G031F8P6" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "Floppy_Board_3.1_0_1"
+      (polyline
+        (pts
+          (xy -4.318 -9.652)
+          (xy -2.54 -9.652)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -4.191 -11.176)
+          (xy -2.667 -11.176)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.81 -11.557)
+          (xy -3.048 -11.557)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.556 -11.938)
+          (xy -3.302 -11.938)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.429 -9.652)
+          (xy -3.429 -11.176)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.286 -9.017)
+          (xy -1.778 -9.525)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.032 -8.509)
+          (xy -1.524 -9.017)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -6.985 -6.35)
+          (xy -3.429 -6.35)
+          (xy -3.429 -7.874)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.429 -7.874)
+          (xy -2.413 -7.874)
+          (xy -3.429 -9.652)
+          (xy -4.445 -7.874)
+          (xy -3.429 -7.874)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.778 -9.525)
+          (xy -1.651 -9.398)
+          (xy -1.524 -9.779)
+          (xy -1.905 -9.652)
+          (xy -1.778 -9.525)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.524 -9.017)
+          (xy -1.397 -8.89)
+          (xy -1.27 -9.271)
+          (xy -1.651 -9.144)
+          (xy -1.524 -9.017)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
     (symbol "Floppy_Board_3.1_1_1"
-      (rectangle (start -12.7 20.32) (end 12.7 -20.32)
+      (rectangle (start -12.827 20.066) (end 12.573 -20.574)
         (stroke (width 0) (type default))
         (fill (type background))
       )
@@ -32,6 +132,9 @@
       )
       (text "FLOPPY BOARD 3.1" (at 0 12.065 0)
         (effects (font (size 1.27 1.27) bold))
+      )
+      (text "USER_LED" (at -0.635 -10.541 0)
+        (effects (font (size 0.5 0.5)))
       )
       (pin power_out line (at -15.24 6.35 0) (length 2.54)
         (name "3V3" (effects (font (size 1.27 1.27))))
