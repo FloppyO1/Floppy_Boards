@@ -38,7 +38,6 @@
       8,
       9,
       10,
-      11,
       13,
       14,
       15,
@@ -63,7 +62,7 @@
       35,
       36
     ],
-    "visible_layers": "7f8bd03_7fffffff",
+    "visible_layers": "7f8bd03_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
@@ -74,18 +73,6 @@
     "files": [
       {
         "name": "Floppy Board v3.1.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1048
-        }
-      },
-      {
-        "name": "Floppy Board v3.1.kicad_sch",
         "open": false,
         "window": {
           "display": 0,
