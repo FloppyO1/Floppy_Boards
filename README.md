@@ -28,13 +28,6 @@ In this version, it excels over the others in the following aspects:
 - The silkscreen has been completely updated, making it much more legible and aesthetically pleasing.
 - inally, we've introduced the option to install an EEPROM on the back of the board , enabling you to permanently save small amounts of data even in the absence of power.
 
-
-## Other informations
-
-For more informations check my website: https://floppylab.altervista.org/en
-
-You can also find some information on my YouTube channel: https://www.youtube.com/@floppylab
-
 ## License
 
 [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://choosealicense.com/licenses/cern-ohl-s-2.0/#)
